@@ -6,15 +6,21 @@ Different with ordinary maze games, the walls or barriers are <font color=#FF737
 
 #### 1.Demo Videos
 
-Home page demo:
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzk4ODM0Njg2NA==' frameborder=0 'allowfullscreen'></iframe>
+Home page demo: 
+
+(For high quality video please click [here](https://v.youku.com/v_show/id_XMzk4ODM0Njg2NA==.html?spm=a2h0k.11417342.soresults.dtitle))
+
+![](snapshots/homepage.gif)
 
 Single player demo:
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzk4ODM0ODQ5Mg==' frameborder=0 'allowfullscreen'></iframe>
+
+(For high quality video please click [here](https://v.youku.com/v_show/id_XMzk4ODM0ODQ5Mg==.html?spm=a2h0k.11417342.soresults.dtitle))
+
+![](snapshots/singleplayer.gif)
 
 #### 2.Game Workflow
 
-![](game-workflow.png)
+![](snapshots/game-workflow.png)
 
 #### 3.Deploy Smart Contract
 
